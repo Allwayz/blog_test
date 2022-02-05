@@ -12,4 +12,4 @@ def hello_world():  # put application's code here
 
 if __name__ == '__main__':
     app.run()
-https://timetables.cardiff.ac.uk/ical?61f1d5db&group=false&eu=YzIxMDI4NzEy&h=GY60rPNNY62nrjLvRo1mQNcJpnUodZL4xz_nwSi2eU4=
+https://calendars.icloud.com/holidays/cn_zh.ics
